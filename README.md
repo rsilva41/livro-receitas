@@ -2,8 +2,8 @@
 
 
 
-Olá! Bem vindo ao nosso livro de receintas:book:
+Olá! Bem vindo ao nosso livro de receitas:book::spaghetti:
 
 - Strogonoff de frango
 - Pavê
-- musse de chocolate- ruim
+- Bolo de Cenoura
