@@ -6,4 +6,4 @@ Olá! Bem vindo ao nosso livro de receintas:book:
 
 - Strogonoff de frango
 - Pavê
-- musse de chocolate
+- musse de chocolate- ruim
